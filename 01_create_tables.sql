@@ -25,6 +25,14 @@ CREATE TABLE Locatario (
     FOREIGN KEY (id_usuario) REFERENCES Usuario (id_usuario) ON DELETE CASCADE
 );
 
+CREATE TABLE Email_Usuario (
+    id_email int AUTO_INCREMENT,
+    id_usuario int NOT NULL,
+    email_usuario varchar(100) NOT NULL,
+    PRIMARY KEY (id_email),
+    FOREIGN KEY (id_usuario) REFERENCES Usuario (id_usuario) ON DELETE CASCADE
+);
+
 CREATE TABLE Telefone_Usuario(
   id_telefone int AUTO_INCREMENT,
   id_usuario int NOT NULL,

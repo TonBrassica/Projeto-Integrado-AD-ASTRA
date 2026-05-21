@@ -3,8 +3,12 @@
   <component name="DataSourcePerFileMappings">
     <file url="file://$PROJECT_DIR$/01_create_tables.sql" value="2c05c842-63b4-4fdb-8c6d-8ac6deb396b3" />
     <file url="file://$PROJECT_DIR$/02_inserts_usarios.sql" value="2c05c842-63b4-4fdb-8c6d-8ac6deb396b3" />
-    <file url="file://$PROJECT_DIR$/03_inserts_imoveis.sql" value="2c05c842-63b4-4fdb-8c6d-8ac6deb396b3" />
-    <file url="file://$PROJECT_DIR$/04_inserts_tel.sql" value="2c05c842-63b4-4fdb-8c6d-8ac6deb396b3" />
-    <file url="file://$PROJECT_DIR$/05_inserts_agendamentos.sql" value="2c05c842-63b4-4fdb-8c6d-8ac6deb396b3" />
+    <file url="file://$PROJECT_DIR$/03_inserts_corretores.sql" value="2c05c842-63b4-4fdb-8c6d-8ac6deb396b3" />
+    <file url="file://$PROJECT_DIR$/04_inserts_Locatario.sql" value="2c05c842-63b4-4fdb-8c6d-8ac6deb396b3" />
+    <file url="file://$PROJECT_DIR$/05_inserts_EMAIL.sql" value="2c05c842-63b4-4fdb-8c6d-8ac6deb396b3" />
+    <file url="file://$PROJECT_DIR$/07_inserts_Imovel.sql" value="2c05c842-63b4-4fdb-8c6d-8ac6deb396b3" />
+    <file url="file://$PROJECT_DIR$/08_Inserts_Agendamentos.sql" value="2c05c842-63b4-4fdb-8c6d-8ac6deb396b3" />
+    <file url="file://$PROJECT_DIR$/09_Iserts_Pagamentos.sql" value="2c05c842-63b4-4fdb-8c6d-8ac6deb396b3" />
+    <file url="file://$PROJECT_DIR$/6_inserts_Telefone.sql" value="2c05c842-63b4-4fdb-8c6d-8ac6deb396b3" />
   </component>
 </project>

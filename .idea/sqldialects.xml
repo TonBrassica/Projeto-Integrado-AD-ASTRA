@@ -3,8 +3,12 @@
   <component name="SqlDialectMappings">
     <file url="file://$PROJECT_DIR$/01_create_tables.sql" dialect="MySQL" />
     <file url="file://$PROJECT_DIR$/02_inserts_usarios.sql" dialect="MySQL" />
-    <file url="file://$PROJECT_DIR$/03_inserts_imoveis.sql" dialect="MySQL" />
-    <file url="file://$PROJECT_DIR$/04_inserts_tel.sql" dialect="MySQL" />
-    <file url="file://$PROJECT_DIR$/05_inserts_agendamentos.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/03_inserts_corretores.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/04_inserts_Locatario.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/05_inserts_EMAIL.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/07_inserts_Imovel.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/08_Inserts_Agendamentos.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/09_Iserts_Pagamentos.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/6_inserts_Telefone.sql" dialect="MySQL" />
   </component>
 </project>
