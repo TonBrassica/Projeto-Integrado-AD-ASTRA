@@ -1,4 +1,4 @@
-# Sistema de Gestão de Base de Dados Imobiliária (ImobiDB)
+# Sistema de Gestão de Base de Dados Imobiliária (AD-ASTRA)
 
 [![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
 [![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](https://ubuntu.com/)
